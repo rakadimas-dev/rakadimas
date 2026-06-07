@@ -22,7 +22,7 @@ Berikut adalah beberapa teknologi yang sering saya gunakan untuk membuat projek 
 
 ### 📊 Statistik GitHub
 *(Opsional: Teks ini akan menampilkan grafik keren secara otomatis)*
-![Statistik GitHub Raka](https://github-readme-stats.vercel.app/api?username=rakadimas-dev&show_icons=true&theme=tokyonight)
+![Bahasa Paling Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=rakadimas-dev&layout=compact&theme=tokyonight)
 
 ---
 
