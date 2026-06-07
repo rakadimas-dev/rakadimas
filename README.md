@@ -20,10 +20,8 @@ Berikut adalah beberapa teknologi yang sering saya gunakan untuk membuat projek 
 
 ---
 
-### 📊 Statistik GitHub
-*(Opsional: Teks ini akan menampilkan grafik keren secara otomatis)*
-![Bahasa Paling Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=rakadimas-dev&layout=compact&theme=tokyonight)
-
+### 🛠️ Tech Stack & Skills
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ---
 
 💡 *“Terus belajar dan menulis baris kode untuk menciptakan hal baru setiap hari.”*
